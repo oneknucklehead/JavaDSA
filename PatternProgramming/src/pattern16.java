@@ -1,5 +1,5 @@
 //O(N) time complexity and O(1) extra space
-//detailed explaination in GFG pascal's triangle method 3 by archit puri
+//detailed explanation in GFG pascal's triangle method 3 by archit puri
 public class pattern16 {
     public static void main(String[] args) {
         pattern(5);
