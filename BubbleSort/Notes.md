@@ -1,11 +1,12 @@
-#What is Bubble Sort:
+<h1>What is Bubble Sort:</h1>
 
 -> It sorts elements of the given array in an increasing(or decreasing) manner.
 
 -> With every pass, this algorithm shifts the largest element to its respective position towards the end of the array(in case of increasing) i.e it shifts the largest element to the last position, then the second largest element to the second largest position and so on.
 
 -> It is a stable sorting algorithm i.e. something like this=> [Stable Sort](https://drive.google.com/file/d/12ypUkJVqVAavhEE9Mid8PS6OA2KmbpVM/view?usp=sharing)
-	In short, it means that if two elements have the same value then the initial positioning of the values will be maintained. Example: let say we have two balls of value 10 each and first ball is of red colour and second is black. If initially the red ball was positioned before black black then even after sorting the balls on the basis of their value, the red ball will remain before the black ball.
+
+In short, it means that if two elements have the same value then the initial positioning of the values will be maintained. Example: let say we have two balls of value 10 each and first ball is of red colour and second is black. If initially the red ball was positioned before black black then even after sorting the balls on the basis of their value, the red ball will remain before the black ball.
 	
 -> Time complexity: Best case - O(N) (When the array is already sorted).
 		    Worst case - O(N^2) (When the array is sorted in the direction opposite to the direction we need.
