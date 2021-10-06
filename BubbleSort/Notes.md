@@ -1,4 +1,5 @@
 #What is Bubble Sort:
+
 -> It sorts elements of the given array in an increasing(or decreasing) manner.
 
 -> With every pass, this algorithm shifts the largest element to its respective position towards the end of the array(in case of increasing) i.e it shifts the largest element to the last position, then the second largest element to the second largest position and so on.
