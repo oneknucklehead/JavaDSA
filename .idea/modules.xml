@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/assignmentSolutions/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/assignmentSolutions/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch_2D/BinarySearch_2D.iml" filepath="$PROJECT_DIR$/BinarySearch_2D/BinarySearch_2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitManipulation/BitManipulation.iml" filepath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CyclicSort/CyclicSort.iml" filepath="$PROJECT_DIR$/CyclicSort/CyclicSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaDSA.iml" filepath="$PROJECT_DIR$/.idea/JavaDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math dsa/Math dsa.iml" filepath="$PROJECT_DIR$/Math dsa/Math dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs/OOPs.iml" filepath="$PROJECT_DIR$/OOPs/OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignmentSolutions/PatternProgramming/PatternProgramming.iml" filepath="$PROJECT_DIR$/assignmentSolutions/PatternProgramming/PatternProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignmentSolutions/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/assignmentSolutions/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks &amp; Queue/Stacks &amp; Queue.iml" filepath="$PROJECT_DIR$/Stacks &amp; Queue/Stacks &amp; Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignmentSolutions/Searching/book allocation problem/book allocation problem.iml" filepath="$PROJECT_DIR$/assignmentSolutions/Searching/book allocation problem/book allocation problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignmentSolutions/Searching/leetcodeSolutions/leetcodeSolutions.iml" filepath="$PROJECT_DIR$/assignmentSolutions/Searching/leetcodeSolutions/leetcodeSolutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion Assignments/recursion Assignments.iml" filepath="$PROJECT_DIR$/recursion Assignments/recursion Assignments.iml" />
+    </modules>
+  </component>
+</project>
