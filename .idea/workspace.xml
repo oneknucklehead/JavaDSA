@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cd02862-8cb3-4029-a02a-7672e0c85dae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BinarySearch_2D/BinarySearch_2D.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CyclicSort/CyclicSort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/LinkedList.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math dsa/Math dsa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/OOPs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/Recursion.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stacks &amp; Queue/Stacks &amp; Queue.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignmentSolutions/Searching/book allocation problem/book allocation problem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignmentSolutions/Sorting/Sorting.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion Assignments/recursion Assignments.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="6cd02862-8cb3-4029-a02a-7672e0c85dae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,5 +29,16 @@
       <updated>1647506074633</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
